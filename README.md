@@ -14,8 +14,8 @@ FlowTrack is a fully responsive, modern, animated landing page built using **HTM
 
 ---
 
-## 🎥 Summary Document Link  
-🔗 **Vidyard / Loom Recording:** _https://docs.google.com/document/d/1HXPusBMIWD4VZmieAhNvu9ObJTYf9VQeJT7VX_viJes/edit?usp=sharing_
+## 🚀 Summary Document Link  
+🔗 **Google DOCs:** _https://docs.google.com/document/d/1HXPusBMIWD4VZmieAhNvu9ObJTYf9VQeJT7VX_viJes/edit?usp=sharing_
 
 ---
 
