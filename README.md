@@ -5,12 +5,12 @@ FlowTrack is a fully responsive, modern, animated landing page built using **HTM
 ---
 
 ## 🚀 Live Demo  
-🔗 **Hosted URL:** _Add your live Netlify/Vercel link here_
+🔗 **Hosted URL:** _https://flowtrack-prompt-engineering-assign.vercel.app/_
 
 ---
 
 ## 🎥 Workflow Video  
-🔗 **Vidyard / Loom Recording:** _Add your recording link here_
+🔗 **Vidyard / Loom Recording:** _https://www.loom.com/share/f54d2b3d680d4b74b0ad14e16b5f936d_
 
 ---
 
@@ -149,7 +149,7 @@ Add your screenshots here:
 **K. Sumanth Reddy**  
 Aspiring Full-Stack Developer • Prompt Engineering Enthusiast  
 📧 Email: _karri.sumanthreddy.21@gmial.com_  
-🌐 Portfolio: _k-sumanth-reddy.netlify.app_
+🌐 Portfolio: _https://k-sumanth-reddy.netlify.app/_
 
 ---
 
